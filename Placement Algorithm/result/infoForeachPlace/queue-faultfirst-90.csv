@@ -1,0 +1,11 @@
+,serviceName,deviceName,latency
+0,fault-losso,edge1,0.6071743950941452
+1,fault-knn,edge1,0.6067642828662122
+2,fault-svm,edge1,0.6128911069973991
+3,fault-xgboost,edge2,0.6496197501752533
+4,fault-ensemble,edge2,0.6470387478303891
+5,wafer-auto,edge0,0.008692987376108428
+6,wafer-statis,edge1,0.022046780964059574
+7,wafer-cnn,edge1,0.005265748574626028
+8,wafer-svm,edge0,0.013111202666126427
+9,wafer-ensemble,edge2,0.010325082771065735
